@@ -1,0 +1,18 @@
+[submodule "teachers/OrderedNeurons/Ordered-Neurons"]
+	path = teachers/OrderedNeurons/Ordered-Neurons
+	url = https://github.com/yikangshen/Ordered-Neurons
+[submodule "teachers/NeuralCompoundPCFG/compound-pcfg"]
+	path = teachers/NeuralCompoundPCFG/compound-pcfg
+	url = https://github.com/harvardnlp/compound-pcfg
+[submodule "teachers/DIORA/diora"]
+	path = teachers/DIORA/diora
+	url = https://github.com/iesl/diora
+[submodule "teachers/S-DIORA/s-diora"]
+	path = teachers/S-DIORA/s-diora
+	url = https://github.com/iesl/s-diora
+[submodule "teachers/ConTest/constituency-test-parser"]
+	path = teachers/ConTest/constituency-test-parser
+	url = https://github.com/stevenxcao/constituency-test-parser
+[submodule "teachers/ContexDistort/contextual-distortion-parser"]
+	path = teachers/ContexDistort/contextual-distortion-parser
+	url = https://github.com/jxjessieli/contextual-distortion-parser
