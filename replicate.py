@@ -43,12 +43,15 @@ def main():
     if config.Figure1:
         print('Figure 1')
         figure_1()
+        print("Dumped into figure1.png")
     if config.Figure2:
         print('Figure 2')
         figure_2()
+        print("Dumped into figure2.png")
     if config.Figure4:
         print('Figure 4')
         figure_4()
+        print("Dumped into figure4.png")
 
 if __name__ == '__main__':
     main()
