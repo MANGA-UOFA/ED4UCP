@@ -1,0 +1,6 @@
+Run,OrderedNeurons,NeuralPCFG,CompoundPCFG,DIORA,S-DIORA,ConTest,ContexDistort
+1,seed17,seed3435,Kim,Drozdov-MLPsoftmax,seed1943591871,CaoCheckpoint,layer10
+2,seed31,Kim,seed3435,seed35,seed315,id0,layer12
+3,Kim,seed1234,seed1234,seed74,seed75,CaoParsed,layer11
+4,seed7214,seed1313,seed887,seed1313,seed1313,id1,layer8
+5,seed1111,seed5555,seed778,seed5555,seed442597220,id2,layer9
