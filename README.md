@@ -75,7 +75,7 @@ ensemble_treebank = ensemble(
 Each reference treebank is a list of bracket-based trees.
 
 ## Teachers
-Each teacher appears as a directory in the `teachers` directory. In each directory, you will find a GitHub submodule to the commit of the original codebase that I used, a readme about how I used the codebase, maybe a few postprocessing scripts, and link to the checkpoints used in the paper.
+Each teacher appears as a directory in the [`teachers` directory](https://github.com/MANGA-UOFA/ED4UCP/tree/main/teachers). In each directory, you will find a GitHub submodule to the commit of the original codebase that I used, a readme about how I used the codebase, maybe a few postprocessing scripts, and link to the checkpoints used in the paper.
 
 ---
 <a href="https://shayeghb.github.io/"><img src="https://shayeghb.github.io/img/favicon.png" style="background-color:red;"/></a>
