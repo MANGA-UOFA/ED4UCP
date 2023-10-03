@@ -53,7 +53,7 @@ python ensemble.py \
 #### Arguments:
 * --Run <RUN_ID>: Specify the run ID to process. It is according to the [experiments' guide](https://github.com/MANGA-UOFA/ED4UCP/blob/main/experiments/table6_guide.csv). This argument can be appended multiple times to process multiple runs.
 * --combination_of_the <Bests|Worsts>: This allows you to specify whether you want to create ensembles of the best (or worst) models across runs, according to the [ensemble guide](https://github.com/MANGA-UOFA/ED4UCP/blob/main/experiments/ensemble_guide.py). This argument can be appended multiple times (to cover both).
-* --references <PATH1> <PATH2> ...: Define one or multiple reference file paths. You can specify multiple paths separated by spaces. It will create an ensemble of all of them.
+* --references \<PATH1> \<PATH2> ...: Define one or multiple reference file paths. You can specify multiple paths separated by spaces. It will create an ensemble of all of them.
 * --MBR_mode <generative|selective>: Specify the mode as either generative or selective. Details are provided in the paper. Defaults to generative.
 * --file_name <FILE_NAME>: Specify the file name for --Run and --combination_of_the. Defaults to the value of TEST_FILE_NAME defined in [the constants](https://github.com/MANGA-UOFA/ED4UCP/blob/main/experiments/constants.py).
 * --write_directory <WRITE_DIRECTORY>: Specify the directory where the output should be written. If not specified, it defaults to the directory composed of MOTHER_PATH and the respective MBR_PATH for the chosen MBR_mode (see [the constants](https://github.com/MANGA-UOFA/ED4UCP/blob/main/experiments/constants.py)).
