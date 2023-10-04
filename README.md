@@ -1,6 +1,8 @@
 # ED4UCP
 An official implementation for the paper "Ensemble Distillation for Unsupervised Constituency Parsing."
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/ensemble-distillation-for-unsupervised/constituency-grammar-induction-on-ptb)](https://paperswithcode.com/sota/constituency-grammar-induction-on-ptb?p=ensemble-distillation-for-unsupervised)
+
 ## Install
 ```bash
 conda create -n ED4UCP python=3.9
