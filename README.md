@@ -7,7 +7,7 @@ An official implementation for the paper "Ensemble Distillation for Unsupervised
 ```bash
 conda create -n ED4UCP python=3.9
 conda activate ED4UCP
-pip install -r requirements.txt
+while read requirement; do pip install $requirement; done < requirement.txt 
 ```
 
 ## Evaluation
