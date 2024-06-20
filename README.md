@@ -80,4 +80,4 @@ Each reference treebank is a list of bracket-based trees.
 Each teacher appears as a directory in the [`teachers` directory](https://github.com/MANGA-UOFA/ED4UCP/tree/main/teachers). In each directory, you will find a GitHub submodule to the commit of the original codebase that I used, and maybe a few postprocessing scripts.
 
 ---
-<a href="https://shayeghb.github.io/"><img src="https://shayeghb.github.io/img/favicon.png" style="background-color:red;"/></a>
+<a href="https://TheShayegh.github.io/"><img src="https://TheShayegh.github.io/img/favicon.png" style="background-color:red;"/></a>
